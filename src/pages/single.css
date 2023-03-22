@@ -1,0 +1,35 @@
+.second-card {
+}
+
+.second-img {
+  height: 400px;
+}
+
+.price {
+  font-weight: 400;
+  color: rgb(157, 23, 23);
+}
+
+.title {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 24px;
+  padding: 10px;
+}
+
+.description {
+  padding-left: 50px;
+  padding-right: 50px;
+  margin-top: 40px;
+}
+
+.all-products {
+  text-decoration: none;
+  color: black;
+  writing-mode: vertical-rl;
+  text-orientation: mixed;
+  font-weight: 300;
+}
+
+.all-products:hover {
+  color: brown;
+}

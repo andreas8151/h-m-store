@@ -1,0 +1,32 @@
+.drink-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.drink {
+  height: 30rem;
+  width: 20rem;
+  margin: 30px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.504);
+}
+
+.drink-name {
+  text-align: center;
+  font-weight: 600;
+  color: rgb(0, 0, 0);
+  padding: 10px;
+}
+
+.drink-img {
+  border-radius: 2%;
+}
+
+.text-info {
+  text-align: center;
+  font-weight: 300;
+  padding: 10px 20px;
+}

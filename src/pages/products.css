@@ -1,0 +1,46 @@
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+img {
+  margin-left: auto;
+  margin-right: auto;
+  height: 50%;
+  max-width: 100%;
+  width: auto;
+}
+
+.card {
+  width: 20rem;
+  height: 420px;
+  margin: 30px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+}
+
+.info {
+  text-align: center;
+  font-weight: bold;
+  padding: 10px;
+}
+
+.link {
+  text-decoration: none;
+  color: black;
+}
+
+.link:hover {
+  color: #752020;
+}
+
+.category {
+  margin-top: 60px;
+  font-weight: 300;
+  writing-mode: vertical-rl;
+  text-orientation: mixed;
+}
